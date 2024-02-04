@@ -7,7 +7,7 @@
 | 김지현 | 팀원|<a href="https://github.com/zomeong">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>|https://velog.io/@zo_meong/posts
 | 문정현 | 팀원|<a href="https://github.com/JungHyunMoon">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>|https://velog.io/@foqlzm12345/posts
 
-
+...
 ---
 
 ## 프로젝트 소개
